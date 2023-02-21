@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f842f188.css",
+    "main.js": "/static/js/main.d887011e.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/Agrawal.JPG": "/static/media/Agrawal.84ea918104a209eb49b3.JPG",
+    "static/media/SIH_T_Report.pdf": "/static/media/SIH_T_Report.1a087d062fc9c7623077.pdf",
+    "static/media/Bansal3.jpg": "/static/media/Bansal3.82b40621fbe62f9d69ae.jpg",
+    "static/media/Mr. Arjun Singh Parihar.JPG": "/static/media/Mr. Arjun Singh Parihar.30b7aa3b0c17fd9a40cf.JPG",
+    "static/media/BGI CODERS 2K22 REPORT.pdf": "/static/media/BGI CODERS 2K22 REPORT.28c6a7d8d6d64f5f1e08.pdf",
+    "static/media/Code Byte.pdf": "/static/media/Code Byte.706c0921bbd929938a78.pdf",
+    "static/media/Bansal2.webp": "/static/media/Bansal2.6e25b4085d25c79f66da.webp",
+    "static/media/Bansal1.jpg": "/static/media/Bansal1.298722e5e1c28ae28afe.jpg",
+    "static/media/Error.png": "/static/media/Error.ccbce8727c0cccab5b82.png",
+    "static/media/WhatsApp Image 2022-09-29 at 2.45.57 PM.jpeg": "/static/media/WhatsApp Image 2022-09-29 at 2.45.57 PM.3db029e503d75e06d7ff.jpeg",
+    "static/media/qr.jpg": "/static/media/qr.f540d2578bd31c9303c4.jpg",
+    "static/media/aws report.pdf": "/static/media/aws report.c5ba87515263ee65bbaf.pdf",
+    "static/media/Logo.jpg": "/static/media/Logo.de8acbb82fd8c507af5c.jpg",
+    "static/media/Logo-SDBC-250x62.png": "/static/media/Logo-SDBC-250x62.1de6aa61e8188c7c1f45.png",
+    "index.html": "/index.html",
+    "main.f842f188.css.map": "/static/css/main.f842f188.css.map",
+    "main.d887011e.js.map": "/static/js/main.d887011e.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f842f188.css",
+    "static/js/main.d887011e.js"
+  ]
+}
