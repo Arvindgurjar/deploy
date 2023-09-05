@@ -1,5 +1,6 @@
 import BGIcoders from "../../pdf/BGI CODERS 2K22 REPORT.pdf"
 import SIH from "../../pdf/SIH_T_Report.pdf"
+import CB from "../../pdf/CODE BYTE REPORT.pdf"
 export const ArchiveData = [
     {
         title: "BGI CODERS 2K22",
@@ -11,5 +12,11 @@ export const ArchiveData = [
         start:new Date('2022,03,24 9:00:00'),
         end:new Date('2022,03,24 17:00:00'),
         pdf:SIH
+    },
+    {
+        title:"CODE BYTE",
+        start:new Date('2022,10,07 9:00:00'),
+        end:new Date('2022,10,07 17:00:00'),
+        pdf:CB
     },
 ]
